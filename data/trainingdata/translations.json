@@ -1,0 +1,450 @@
+{
+"d7ae4536-c437-11f1-9011-633961538ee5": {
+"zh": "David Silver 离开 DeepMind 创业：打造从零经验学习的超级学习者",
+"desc": "Ineffable Intelligence 两位联合创始人谈如何不用人类数据、只靠自身经验训练智能体，把 AlphaGo Zero 的思路推向超级智能。"
+},
+"28c38604-c0da-11f1-8b1e-33a0102fe4b6": {
+"zh": "谷歌 AI 基础设施负责人 Amin Vahdat：前沿 AI 的物理与经济账",
+"desc": "谷歌 AI 基础设施首席技术官谈十万级加速器集群的故障常态、为何 FLOPS 是虚荣指标，以及 TPU 首次分成 8i 与 8t 的取舍。"
+},
+"d2e9aa74-b080-11f1-8007-f31e2b6b4e53": {
+"zh": "Box 的 Aaron Levie：上市公司如何在 AI 时代重塑自己与企业扩散",
+"desc": "Box 联合创始人兼 CEO 谈带着季度财报转型 AI 的难处，以及把模型能力接入银行、律所、药企真实流程的桥梁价值。"
+},
+"2361fcb0-a56c-11f1-bcee-5b403a4e1902": {
+"zh": "Peregrine 的 Nick Noone 与 Ben Rudolph：不采新数据，让城市更安全",
+"desc": "两位创始人讲如何只连接城市已有的数据来服务执法与急救，以及被二十多家警局拒绝后如何敲开第一扇门。"
+},
+"2e1d938c-9fed-11f1-b924-cf663b124449": {
+"zh": "Parallel 的 Parag Agrawal：为 Agent 重建一套新的网络",
+"desc": "前 Twitter CEO、现 Parallel Web Systems 创始人谈为何把人类点击数据当作缺陷、改用 Agent 反馈训练，并押注 Agent 查询量远超人类。"
+},
+"f22093e6-9ac6-11f1-aa57-23eadad59cc7": {
+"zh": "Rich Sutton 与 Khurram Javed：AI 模型为何停止学习，如何让它重新学",
+"desc": "强化学习先驱与学生创办 Oak Lab，主张智能体应持续从自身经验中学习，并解释当下范式为何偏离了持续学习这条路。"
+},
+"00198340-89dd-11f1-8519-5f4366a34437": {
+"zh": "Chai Discovery：药物设计是又一个 scaling 问题，苦涩的教训再次应验",
+"desc": "两位创始人谈把生物学当工程问题，用数据、模型与算力替代手工流水线，把从头设计抗体的成功率大幅推高。"
+},
+"feef20f0-8a05-11f1-beda-77fe6808cfdf": {
+"zh": "Core Automation 的 Jerry Tworek 与 Rohan Anil：造一座自动化 AGI 实验室",
+"desc": "两位前 OpenAI 与谷歌研究员认为 transformer 已走到极限，瓶颈是架构而非规模，他们要建一座自动运转的 AGI 实验室。"
+},
+"8b31e580-845b-11f1-850d-e78291a15e5d": {
+"zh": "Factory 的 Matan Grinberg：软件自我构建的「暗工厂」正在到来",
+"desc": "Factory 创始人兼 CEO 谈 2023 年就做全自主编码 Agent 的过早押注、穿越荒漠的两年，以及把收入退还给客户的决定。"
+},
+"e80c1332-7efe-11f1-aad6-934cf71a1d19": {
+"zh": "Anthropic 的 Katelyn Lesse 与 Angela Jiang：建生态，而不是围墙花园",
+"desc": "Anthropic 开发者平台负责人谈知识、执行、协调三层栈，以及「策略」这类元框架如何让每个 token 各司其职。"
+},
+"02ef4faa-797a-11f1-8ba5-9f03cb2e87c8": {
+"zh": "走进 Zipline 的自主系统：1.4 亿英里飞行，零安全事故",
+"desc": "联合创始人 Keller Rinaudo Cliffton 与系统安全负责人谈为何无人机只占方案的 15%，其余是库存管理、空域整合与工程体系。"
+},
+"fb9d2daa-719d-11f1-9e13-9f44da352371": {
+"zh": "SemiAnalysis 的 Dylan Patel：软硬件协同设计才是 AI 真正的百倍提升",
+"desc": "Dylan Patel 谈为何把模型、kernel 与芯片一起优化能叠加出百倍收益，以及 DeepSeek 专家为何贴合 Hopper、TPU 难跑。"
+},
+"a982f792-6f55-11f1-b29a-1be1b9f3ee0a": {
+"zh": "记忆与持续学习：Engram 两位创始人谈把知识写进模型权重",
+"desc": "Engram 两位创始人 Dan Biderman 与 Jessy Lin 谈把团队知识烧进模型权重、取代 RAG 的思路。"
+},
+"e2c76d2e-68ea-11f1-b835-0fa4c8d306ac": {
+"zh": "Simile 创始人 Joon Sung Park：模拟人类社会与人心",
+"desc": "Simile 创始人 Joon Sung Park 认为前沿模型只是智能的 CPU，要模拟人类社会需要另一种模型。"
+},
+"c8ac5d90-6517-11f1-83d7-d3b49f07aa8f": {
+"zh": "Logan Kilpatrick：模型终将吞掉 Agent 脚手架",
+"desc": "Google AI Studio 负责人 Logan Kilpatrick 谈模型吞掉 Agent 脚手架，窗口约剩一年。"
+},
+"0fae4dc4-6456-11f1-9180-3f07b7c1bee8": {
+"zh": "黄仁勋：AI 工厂是智能时代的发电机，把电子变成 Token",
+"desc": "英伟达创始人兼 CEO 黄仁勋谈计算从检索转向生成的六十年最大变革，以及 AI 工厂的角色。"
+},
+"245db97c-5de8-11f1-beb7-d7c1b176fe75": {
+"zh": "Listen Labs 创始人谈用 AI 智能体规模化访谈客户",
+"desc": "Listen Labs 的 Alfred Wahlforss 谈用 AI 智能体同时做数千场语音访谈，替代焦点小组。"
+},
+"c85a76ee-3dd8-11f1-8934-37efe54dd294": {
+"zh": "Cursor 与 Fireworks 如何训练 Composer 专用模型",
+"desc": "Cursor 与 Fireworks 团队讲述如何把有限权重押在软件工程上，训练出推理更省的专用模型 Composer。"
+},
+"11894f9c-52f7-11f1-a868-f30cc344c1ee": {
+"zh": "Serval 创始人 Jake Stauch：用无限智能重建企业 IT",
+"desc": "Serval 创始人 Jake Stauch 谈为何 AI 时代的企业软件要外表朴素、内核是无限智能。"
+},
+"beaede5a-4d82-11f1-9272-4f6372b94ca8": {
+"zh": "Suno 的 Mikey Shulman：让每个人都能动手做音乐",
+"desc": "Suno 创始人兼 CEO Mikey Shulman 谈为何九成日活用户都在创作，音乐生成更像游戏而非 Spotify。"
+},
+"41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": {
+"zh": "ElevenLabs 创始人谈语音如何成为一切交互入口",
+"desc": "ElevenLabs 联合创始人 Mati Staniszewski 谈语音入口、400 人团队与 4 亿美元营收。"
+},
+"d73930f8-47f4-11f1-a018-3b5d50482f68": {
+"zh": "Anthropic 的 Boris Cherny 谈编程的印刷术时刻",
+"desc": "Claude Code 创造者 Boris Cherny 谈 2026 年不再手写代码、每天用手机提交数十个 PR。"
+},
+"a6ff5c8c-47f4-11f1-a8a5-03b48837c50f": {
+"zh": "Waymo 的 Dmitri Dolgov：两千万次出行与全自动驾驶之路",
+"desc": "Waymo 联合 CEO Dmitri Dolgov 谈从 DARPA 挑战赛到十一城无人服务的二十年，以及安全底线。"
+},
+"2b60e614-458c-11f1-8407-d363b4cb5860": {
+"zh": "OpenAI 的 Greg Brockman：人类注意力正成为新瓶颈",
+"desc": "OpenAI 联合创始人 Greg Brockman 谈算力永远不够、距 AGI 还有 20%，人类注意力成新瓶颈。"
+},
+"d029858c-44b7-11f1-b968-43e05671113c": {
+"zh": "DeepMind 联合创始人哈萨比斯：AlphaFold 之后，通往 AGI 的最后一段路",
+"desc": "诺奖得主、Google DeepMind 掌门人哈萨比斯与红杉对谈，解释他为何相信 2030 年前可实现 AGI，以及 AI 如何把十年药物研发压缩到几天。"
+},
+"90151d98-433c-11f1-93d1-9316de7fe3e7": {
+"zh": "卡帕西：从 Vibe Coding 到 Agentic Engineering，编程这门手艺正在重构",
+"desc": "OpenAI 联合创始人、前特斯拉 AI 负责人卡帕西谈 vibe coding 一年来的演变，为何他作为程序员从未如此落后，以及更严肃的 agentic engineering 正在成形。"
+},
+"65d389a8-3765-11f1-a29e-cf3fbe697ce7": {
+"zh": "从 SEO 到 Agent 主导的增长：Profound 创始人谈营销的下一次平台迁移",
+"desc": "Profound 联合创始人兼 CEO 詹姆斯·卡德瓦拉德认为，AI Agent 正取代点击链接的消费者，成为互联网新的访客和购买决策者。"
+},
+"99f20e54-26e3-11f1-b50e-fff5703b4285": {
+"zh": "Ginkgo Bioworks 创始人 Jason Kelly：自主实验室如何改写科学研究",
+"desc": "Ginkgo Bioworks 创始人杰森·凯利讲述与 OpenAI 的合作：能调用机器人实验室的推理模型，把生化实验指标提升 40%。"
+},
+"75c18b74-1f25-11f1-949a-2bfed1442ac3": {
+"zh": "Starcloud 创始人 Philip Johnston：为什么十年内 AI 算力中心会搬到太空",
+"desc": "Starcloud 创始人兼 CEO 菲利普·约翰斯顿解释发射成本下降如何让太空数据中心比地面更便宜，并拆解真空散热与在轨能源的经济账。"
+},
+"9f0b727a-1c04-11f1-ac41-ff188f29fe44": {
+"zh": "物理规律总有一票：Nominal 三位创始人谈 AI 时代的硬件研发与测试",
+"desc": "Nominal 联合创始人麦考德、霍赫与斯特劳斯认为，再工业化需要像开发软件一样做硬件测试，把过去只有大厂才有的内部平台开放出来。"
+},
+"d4638cb0-05e7-11f1-b247-b3b1016a4a74": {
+"zh": "Prime Intellect：为 RL 环境造一个 GitHub，让前沿模型训练走向开放",
+"desc": "Prime Intellect 的 Will Brown 与 Johannes Hagemann 谈从静态提示到环境驱动的 AI 开发，以及用 Environments Hub 降低前沿训练门槛。"
+},
+"ed0e9954-005f-11f1-b4af-ffe0a0718e1a": {
+"zh": "AGI 时代垂直 SaaS 还有未来吗：Pace CEO Jamie Cuffe 谈保险业自动化",
+"desc": "Pace CEO 杰米·卡夫用 AI 替代保险业传统外包，从邮件分诊到理赔处理省下五到七成成本，并谈如何让强监管行业信任自主 Agent。"
+},
+"d5f041e0-fae8-11f0-a812-9b47b3178e15": {
+"zh": "Warp 创始人 Zach Lloyd：终端正在成为 AI 编码 Agent 的工作台",
+"desc": "Warp 创始人兼 CEO 扎克·劳埃德谈 IDE 与终端融合出的新工作台、Agent 编排，以及他为何认为编码问题几年内就会被解决。"
+},
+"20f372c4-f635-11f0-a84f-3709416bfe71": {
+"zh": "LangChain 联合创始人 Harrison Chase：用上下文工程走向长周期自主 Agent",
+"desc": "LangChain 联合创始人哈里森·蔡斯梳理 Agent 架构从早期脚手架到 harness 的演进，解释为何上下文工程比更强的模型更关键。"
+},
+"c5941256-f0c8-11f0-9b50-539a245e1b60": {
+"zh": "Ricursive Intelligence 创始人：用 AI 设计芯片，把数月布局压缩到几小时",
+"desc": "在 Google 做出 AlphaChip 的 Anna Goldie 与 Azalia Mirhoseini 谈用 AI 设计四代 TPU 的经验，以及芯片设计为何成为 AI 进步的关键瓶颈。"
+},
+"f559db38-eaba-11f0-abb4-734c8eec0697": {
+"zh": "Physical Intelligence：让机器人学会任意任务，瓶颈不在硬件而在智能",
+"desc": "Physical Intelligence 的 Karol Hausman 与 Tobi Springenberg 谈把视觉、语言与动作合成端到端模型，让机器人获得可泛化的行为。"
+},
+"38ba3326-da00-11f0-9d53-8b0924ed4775": {
+"zh": "Samsara CEO Sanjit Biswas：AI 革命为何在屏幕之外发生",
+"desc": "Samsara 创始人谈物理世界的 AI 与每年 900 亿英里驾驶数据，以及它为何和云端模型截然不同。"
+},
+"23afc5da-d484-11f0-be65-b7d8916b5eab": {
+"zh": "fal 创始人：生成式媒体爆发下的视频模型基础设施",
+"desc": "fal 三位创始人与工程负责人拆解视频模型为何比 LLM 更难优化，以及推理基础设施上的速度竞赛。"
+},
+"ecca5f38-ceef-11f0-9aaa-eb11459bc42e": {
+"zh": "Zed 创始人 Nathan Sobo：AI 编程时代 IDE 不会消失",
+"desc": "用 Rust 重写编辑器、GPU 渲染，Nathan Sobo 谈 17 万开发者使用的 Zed 如何在 AI 编程浪潮中定位。"
+},
+"bbe8e7e6-c3fe-11f0-abed-6f18b823562c": {
+"zh": "Wayve CEO Alex Kendall：端到端学习重塑自动驾驶",
+"desc": "Alex Kendall 谈为何放弃高精地图和手工规则，用端到端深度学习与世界模型让新车新城数周内适配。"
+},
+"573109d4-be89-11f0-92b1-a7f50322b31d": {
+"zh": "Google Nano Banana 团队：图像模型的角色一致性突破",
+"desc": "Nano Banana 产品与工程负责人复盘模型诞生过程，讲清角色一致性难在哪，以及视觉 AI 的下一步。"
+},
+"f586934e-b8e2-11f0-a7ef-9f352ab19a62": {
+"zh": "OpenAI Sora 2 团队：生成式视频如何通向世界模型",
+"desc": "Sora 2 团队谈时空 token 如何带来物体恒存与物理理解，以及把电影制作从数月压缩到数天。"
+},
+"56363538-b39c-11f0-8ea1-3bc8ac01af0c": {
+"zh": "英伟达 CTO Michael Kagan：迈向百万 GPU 集群",
+"desc": "Mellanox 联合创始人、英伟达 CTO 拆解从单卡到十万卡再到百万卡集群的网络瓶颈与架构挑战。"
+},
+"7f9f0c36-ade0-11f0-a1ac-3f87a20a5114": {
+"zh": "Irregular 联合创始人 Dan Lahav：AI 智能体的安全",
+"desc": "与 OpenAI、Anthropic、DeepMind 合作的一线团队，谈自主智能体的涌现行为带来的新型安全风险。"
+},
+"59ff2cc0-a856-11f0-91b6-a31ab56b5c2a": {
+"zh": "Cresta CEO 吴平：AI 重塑客服，而非全自动替代",
+"desc": "Cresta CEO 吴平与红杉 Doug Leone 对谈：客服应自动化该自动的部分，用 AI 辅助人工处理其余。"
+},
+"501be594-9d6c-11f0-b436-c32ec611976e": {
+"zh": "Block CTO：用开源 Agent goose 打造 AI 优先企业",
+"desc": "Block 工程师每周省下 8 到 10 小时，CTO 讲 goose 如何经 MCP 接入企业工具，并倒逼组织重组。"
+},
+"de942aa4-97de-11f0-b8ca-63bc5a95e438": {
+"zh": "Agency CEO Elias Torres：企业为何拒绝自己要的 AI",
+"desc": "从 IBM 聊天机器人到 Drift 与 Agency，Elias Torres 谈企业既想要 AI 又无法容忍它不完美的矛盾。"
+},
+"0d1d59a2-8d00-11f0-810c-4fc7e6321c8c": {
+"zh": "Hugging Face 的 Thomas Wolf：给机器人建应用商店",
+"desc": "Thomas Wolf 谈 LeRobot 如何用开源工具、数据集与廉价硬件，把机器人开发门槛降到人人可及。"
+},
+"55c8bb6c-878b-11f0-8ef9-db7a46549d94": {
+"zh": "Crosby用AI重构法律合同谈判：取消计时收费，按件计价提升交易速度",
+"desc": "Crosby创始人Ryan Daniels与John Sarihan谈如何以律所形态让律师与AI工程师协作自动化合同谈判，并取消计时收费改为按文档计价。"
+},
+"314fd0f8-81ec-11f0-a8b1-930b48eb68fc": {
+"zh": "n8n CEO Jan Oberhauser谈打造通用AI自动化层：连接任意LLM与任意应用",
+"desc": "n8n创始人兼CEO Jan Oberhauser讲述如何把工作流工具转型为AI自动化平台，八个月收入增长达此前六年的四倍。"
+},
+"d98ee368-7c6e-11f0-9648-8fbbb6ccd4e1": {
+"zh": "Gamma创始人Jon Noronha：把幻灯片版Cursor做到5000万美元ARR",
+"desc": "Gamma创始人Jon Noronha谈如何在ChatGPT之前押注AI生成幻灯片，通过数百次模型实验摸索Claude、Gemini等模型的差异化能力。"
+},
+"ea9afc9e-76e4-11f0-8392-df12cf983147": {
+"zh": "Delphi创始人Dara Ladjevardian：用AI数字思维规模化复制人的连接能力",
+"desc": "Delphi创始人兼CEO Dara Ladjevardian谈基于自适应时序知识图谱构建数字思维，帮助CEO培训新人、教练变现而无需取代真人连接。"
+},
+"4c5ae996-6ca7-11f0-b077-331c149643a1": {
+"zh": "Vercel CEO Guillermo Rauch：用AI构建生成式Web，让任何人轻松上线想法",
+"desc": "Vercel CEO Guillermo Rauch谈v0如何做到300万用户，以及为何把可靠性与质量放在首位，并分享ChatGPT成为其最快增长获客渠道。"
+},
+"5d852e0c-6be4-11f0-bfc8-17c4dd88558b": {
+"zh": "OpenAI IMO团队：为何模型终于能解出国际数学奥林匹克竞赛级难题",
+"desc": "OpenAI三人团队Alex Wei、Sheryl Hsu与Noam Brown谈用通用强化学习攻克难以验证的数学题，两个月内达到IMO金牌水平。"
+},
+"fcf7d8e6-667a-11f0-b529-03460f90d957": {
+"zh": "OpenAI发布ChatGPT Agent：合并Deep Research与Operator的最强智能体",
+"desc": "OpenAI ChatGPT Agent团队Isa Fulford、Casey Chu与Edward Sun谈如何用带共享状态的虚拟电脑执行长达一小时的复杂多步任务。"
+},
+"374f25ea-5dc9-11f0-8673-e3429a658718": {
+"zh": "DeepMind的Pushmeet Kohli谈AI科学革命：AlphaEvolve发现新算法并证明数学结果",
+"desc": "DeepMind AI for Science负责人Pushmeet Kohli谈AlphaEvolve如何改进五十年历史的矩阵乘法算法，并为数据中心调度生成可解释代码。"
+},
+"cf8b451e-5b67-11f0-8e44-2339eea2f29f": {
+"zh": "Goodfire的Eric Ho谈神经网络可解释性：用稀疏自编码器解析并编辑模型特征",
+"desc": "Goodfire创始人Eric Ho谈如何理解、审计并在特征层面编辑神经网络，分享用稀疏自编码器化解叠加现象及模型编辑的落地应用。"
+},
+"1873606c-55f1-11f0-a023-dff571f953f4": {
+"zh": "ElevenLabs的Mati Staniszewski：语音将成为科技的基础交互界面",
+"desc": "ElevenLabs联合创始人兼CEO Mati Staniszewski谈如何专注音频创新，借助上下文理解与情感表达重塑文本转语音，并回顾波兰高中起的创业历程。"
+},
+"c19c7236-506b-11f0-b377-33261e3cdf36": {
+"zh": "Traversal的AI智能体：把DevOps故障排查从数小时压缩到几分钟",
+"desc": "Traversal联合创始人Anish Agarwal与Raj Agrawal谈基于因果推断与基因调控网络研究的AI智能体，如何在2到4分钟内完成根因分析。"
+},
+"0ae02282-47dc-11f0-8118-9f5839eff378": {
+"zh": "OpenAI前研究负责人Bob McGrew：通往AGI的三个突破其实已经就位",
+"desc": "OpenAI前研究负责人Bob McGrew认为Transformer、规模化预训练与推理是AGI的三大支柱，并判断2025年将由推理定义而预训练收益递减。"
+},
+"4c94bf4a-4560-11f0-9b8d-a375401dd345": {
+"zh": "OpenAI Codex 团队：从代码补全到异步自主 Agent，模型如何学会真实软件工程",
+"desc": "OpenAI Codex 团队的 Hanson Wang 与 Alexander Embiricos 讲他们最新的编程 Agent：能在独立环境中自主工作约三十分钟，从任务描述直接生成完整 PR。"
+},
+"218a23b8-3ff6-11f0-af25-738e98987a00": {
+"zh": "Google I/O 之后：从 Veo 到 Project Mariner，人机协作与创作工具将被如何重写",
+"desc": "Google Labs 三位负责人聊 I/O 发布后的产品思路：Veo 与 Whisk 把电影拍摄和游戏世界构建融合，Project Mariner 则从浏览器代理演进为生产力工具。"
+},
+"aa97b31a-373a-11f0-b165-cb01a0914fe3": {
+"zh": "从数据中心到戴森球：P-1 AI 如何用合成数据训练硬件工程 Agent，走向工程 AGI",
+"desc": "前空客 CTO Paul Eremenko 介绍 P-1 AI 与工程 Agent Archie，讨论如何生成合成训练数据，让 AI 理解数据中心散热、飞机设计等复杂物理系统。"
+},
+"65773554-3586-11f0-8c3b-ff4c582059ac": {
+"zh": "Gong 的 Amit Bendov：从会议记录到收入 AI，任务型 Agent 与企业落地的人机责任",
+"desc": "Gong CEO Amit Bendov 讲公司如何从会议转录工具转型为 AI 收入平台、把销售产能提升至多 60%，以及为何任务型 Agent 和人的责任归属仍然关键。"
+},
+"445b7ab0-3063-11f0-8c60-c7b5c1c04834": {
+"zh": "Jeff Dean 谈 AI 的下一轮转变：从专用硬件到更有机的系统与未来工程能力",
+"desc": "在 AI Ascent 2025 现场，Google 的 Jeff Dean 谈 TPU 与基础研究的演进，预测专用硬件、更有机的 AI 系统以及未来工程能力将如何改变行业。"
+},
+"7aef0ace-3063-11f0-b4e0-d77a665b645e": {
+"zh": "环境式 Agent 与新的 Agent 收件箱：LangChain 的 Harrison Chase 谈后台常驻 AI",
+"desc": "LangChain CEO Harrison Chase 在 AI Ascent 2025 现场提出环境式 Agent：在后台持续运行、由事件触发而非等人提问，并讨论人类监督为何仍不可少。"
+},
+"b77c3dee-3064-11f0-9909-43fa231b2eba": {
+"zh": "AI 如何重写软件商业模式：Sierra 的 Bret Taylor 谈从订阅制转向按结果收费",
+"desc": "Sierra 联合创始人 Bret Taylor 在 AI Ascent 2025 现场谈 AI 推动定价从订阅制转向结果导向，以及为何应用型 AI 与垂直深耕是创业者的最大机会。"
+},
+"3edaf0a4-3064-11f0-a10e-e7c869b7bacd": {
+"zh": "Sam Altman 谈为人生打造核心 AI 订阅：ChatGPT 如何记住你的全部上下文",
+"desc": "在 AI Ascent 2025 现场，Sam Altman 回顾 OpenAI 从 14 人研究实验室到平台的历程，设想 ChatGPT 成为跨服务、记住个人全部上下文的私人 AI 服务。"
+},
+"00bd288c-29e5-11f0-bf17-5bbccf75de3b": {
+"zh": "Workday CEO Carl Eschenbach：为 AI 时代重建系统记录，同时管理人与 AI 员工",
+"desc": "Workday CEO Carl Eschenbach 讲平台如何同时处理人类与 AI 员工，以及按席位、按角色 Agent 与按 API 用量三种变现路径和垂直 Agent 的价值。"
+},
+"25a8734c-246b-11f0-bc46-2be325d93284": {
+"zh": "用 AI 攻克所有疾病：Isomorphic Labs 的 Max Jaderberg 谈 AlphaFold 3 与药物发现",
+"desc": "Isomorphic Labs 首席 AI 官 Max Jaderberg 回顾在 DeepMind 的强化学习经历，讲 AlphaFold 3 的扩散架构如何理解分子相互作用，以及药物发现的 Move 37 时刻。"
+},
+"bdaa8bd8-1edc-11f0-8e1a-7f6ccbba1f21": {
+"zh": "AI 时代的定价：Paid CEO Manny Medina 谈从按输入到按结果、按 Agent 计费",
+"desc": "前 Outreach CEO Manny Medina 介绍新公司 Paid 为 AI 企业做计费、定价与毛利管理，分析传统 SaaS 定价为何失效，以及结果导向与 Agent 定价的兴起。"
+},
+"15c9e3ce-1972-11f0-a5c8-c76e38cc3e1d": {
+"zh": "Arc Institute 的 Patrick Hsu：为生物学建一个应用商店，Evo 2 基础模型如何铺开生态",
+"desc": "Arc Institute 联合创始人 Patrick Hsu 谈 AI 在药物研发之外的机会，以及基于海量基因组数据训练的生物学基础模型 Evo 2 如何支撑多样应用。"
+},
+"2da47ea2-140c-11f0-afca-d7551c42a717": {
+"zh": "Replit CEO Amjad Masad：让十亿人成为软件创造者，比 AGI 更好的终局",
+"desc": "Replit CEO 谈如何借 LLM 让全球十亿人写代码，并解释为何这比追求 AGI 更值得期待。"
+},
+"f007c2f0-0e81-11f0-a4d6-ebea52fd4128": {
+"zh": "CRM 为何需要一场 AI 革命：Day.ai 创始人 Christopher O'Donnell 的重新构想",
+"desc": "前 HubSpot 首席产品官、Day.ai 创始人谈如何用 AI 解决 CRM 数据不全与流程割裂的老问题。"
+},
+"c7b59f70-08d2-11f0-bc40-f37d4bb00282": {
+"zh": "从软件工程师到 AI 文字工匠：Wordware 的 Filip Kozera 谈让知识工作者开发 AI",
+"desc": "Wordware 创始人谈如何借鉴 Excel 的普及路径，用自然语言与结构化工具让非程序员构建 AI 应用。"
+},
+"0f4964c8-0371-11f0-a7de-d359cbe867ee": {
+"zh": "Google Labs 副总裁 Josh Woodward：如何从 0 到 1 快速打造 AI 产品",
+"desc": "Google Labs 负责人谈 AI 产品快速迭代、提示词将过时，以及 Google 四分之一代码已由 AI 编写。"
+},
+"0f14ec56-fe0e-11ef-b603-a35ac89367c0": {
+"zh": "法律 AI 公司 Harvey CEO Winston Weinberg：模型之外，流程专长才是护城河",
+"desc": "Harvey CEO 谈法律 AI 为何依赖线下流程知识，以及如何用深度定制演示赢得律所信任。"
+},
+"1d2fd45e-f891-11ef-acd6-c3cb1a3969be": {
+"zh": "在医生中走红的 OpenEvidence：用小型专用模型重塑诊疗知识获取",
+"desc": "OpenEvidence 创始人 Daniel Nadler 谈在同行评审文献上训练小模型，并免费向医生开放。"
+},
+"e5145824-f2d7-11ef-8b0a-efc5a34cf4cf": {
+"zh": "OpenAI 深度研究团队：为什么强化学习是 AI Agent 的未来",
+"desc": "OpenAI 的 Isa Fulford 与 Josh Tobin 谈 Deep Research 端到端训练，以及 o3 推理如何支撑可适应的研究策略。"
+},
+"335ce02e-ed7d-11ef-8371-df24fdb17d20": {
+"zh": "Palo Alto Networks CEO Nikesh Arora：AI、安全与新世界秩序",
+"desc": "Palo Alto Networks CEO 谈企业给 AI Agent 放权前需要哪些护栏，以及如何跟上 AI 攻击的速度。"
+},
+"eca071d6-e7f1-11ef-9d5b-3b420a3cbea7": {
+"zh": "MongoDB 的 Sahir Azam：向量数据库与 AI 的数据结构",
+"desc": "MongoDB 产品负责人谈向量数据库如何成为 AI 的记忆与状态层，以及向量、图与传统结构的结合。"
+},
+"4ea1d540-e280-11ef-99dc-13b91512a718": {
+"zh": "Roblox 工作室负责人 Stef Corazza：用 AI 赋能创作者",
+"desc": "前 Adobe 3D 与 AR 平台负责人、现 Roblox 生成式 AI 负责人谈多模态数据集与 3D 基础模型。"
+},
+"ca77b012-dd18-11ef-84b1-7302ab161486": {
+"zh": "ReflectionAI 创始人 Ioannis Antonoglou：从 AlphaGo 到 AGI",
+"desc": "DeepMind 创始工程师谈 AlphaGo 第 37 手与第 78 手、自我博弈与规模，以及通往 AGI 的路径。"
+},
+"93587a04-d510-11ef-acae-2bdd53651d78": {
+"zh": "Kumo 的 Hema Raghavan：让图神经网络为企业带来可衡量的回报",
+"desc": "Kumo 联合创始人谈在 GPU 上运行图神经网络，并用查询语言帮企业预测数据。"
+},
+"267c6a94-cd54-11ef-8cb9-27942977ce88": {
+"zh": "Databricks 联合创始人 Ion Stoica：开源项目如何长成 AI 基础设施公司",
+"desc": "伯克利教授、Databricks 与 Anyscale 联合创始人 Ion Stoica 讲述 Spark 和 Ray 从学术开源走向商业化的路径，以及微软等关键合作的经验。"
+},
+"b42b92f0-b67c-11ef-84e3-3bb54b15f0b5": {
+"zh": "GitHub Copilot 创造者 Oege de Moor：用 AI 把渗透测试从数天压到几分钟",
+"desc": "XBOW 创始人 Oege de Moor 谈其 AI 攻击性安全系统如何比肩甚至超越顶尖人类渗透测试员，以及如何把服务做成可持续的规模化生意。"
+},
+"5cdbbbb8-ac24-11ef-9d0d-ff37896ee911": {
+"zh": "Ramp 创始人 Eric Glyman：企业财务的价值在无感自动化，不在聊天界面",
+"desc": "Ramp 联合创始人兼 CEO Eric Glyman 谈为何聊天机器人不是万能的交互形态，后台零触达的自动化在很多时候更有价值。"
+},
+"c662fd26-ab75-11ef-aa14-ff49d9592c89": {
+"zh": "Dust 创始人 Gabriel Hubert 与 Stanislas Polu：多模型加自定义 Agent 才是企业 AI 的用法",
+"desc": "两位前 Stripe 与 OpenAI 员工创办 Dust，聊为何不会有一个模型通吃，以及打通数据孤岛对释放 AI 价值的意义。"
+},
+"95090f38-a5f6-11ef-9656-af9fef6a2c0d": {
+"zh": "Clay 创始人 Kareem Amin：用 AI 为销售团队搭一套可定制的行动系统",
+"desc": "Clay 创始人兼 CEO Kareem Amin 谈如何用 AI 驱动从定向触达到个性化落地页的销售工作流，以及快速增长背后的取舍。"
+},
+"f796ab06-a12d-11ef-92e7-d70d5dfd91eb": {
+"zh": "Decart 创始人 Dean Leitersdorf：让 AI 实时生成可玩的游戏与虚拟世界",
+"desc": "Decart 联合创始人 Dean Leitersdorf 谈如何在现有硬件上做到实时视频推理，用生成式 AI 打造可玩画面与沉浸式世界。"
+},
+"8f0a91b8-9568-11ef-9129-c706b2d9d655": {
+"zh": "Glean 创始人 Arvind Jain：企业搜索为什么比网页搜索更难做",
+"desc": "前谷歌搜索早期员工、Glean 联合创始人 Arvind Jain 谈权限与数据孤岛带来的难题，以及这对工作场景 AI 意味着什么。"
+},
+"d17bfcec-8ff2-11ef-ba06-c3db1fbb2417": {
+"zh": "OpenAI 研究员 Dan Roberts：物理学能给理解大模型带来什么",
+"desc": "OpenAI 研究员、深度学习理论原理合著者 Dan Roberts 谈理论物理学家为何纷纷进入 AI 实验室，以及他们研究大模型的独特视角。"
+},
+"bf576c50-8a6f-11ef-86af-13c224eed9f4": {
+"zh": "NotebookLM 团队的 Raiza Martin 与 Jason Spielman：爆红 AI 播客主持人背后的产品思路",
+"desc": "谷歌实验室 NotebookLM 两位成员谈 Audio Overview 如何生成双人播客，以及以来源为依据的 AI 产品的更大潜力。"
+},
+"5e866de0-84de-11ef-92c9-2fb1d47a401b": {
+"zh": "Snowflake CEO Sridhar Ramaswamy：用数据为企业做出简单可靠的 AI",
+"desc": "Snowflake CEO Sridhar Ramaswamy 谈消费级模型的幻觉为何在企业场景行不通，以及数据如何让 AI 变得可信可用。"
+},
+"439017ca-7f66-11ef-a656-7fff69ded708": {
+"zh": "OpenAI 的 Noam Brown 等人谈 o1：如何教大模型把推理做得更好",
+"desc": "深度强化学习先驱 Noam Brown 与 OpenAI 团队谈 o1 如何把大模型与 AlphaGo 式强化学习结合，以及它在数学编码上的表现。"
+},
+"41f16434-79d3-11ef-b145-1b674a134d5d": {
+"zh": "Harmonic 的 Vlad Tenev 与 Tudor Achim：AI 即将改变数学，以及为什么这重要",
+"desc": "Robinhood 创始人 Vlad Tenev 与 Tudor Achim 谈为何数学数据能提升模型推理能力，以及形式化证明社区兴起带来的机会。"
+},
+"f0614f5c-746f-11ef-b014-17e5a317e802": {
+"zh": "英伟达具身智能实验室负责人 Jim Fan 谈机器人数据策略与黄仁勋的自主机器人预测",
+"desc": "英伟达 GEAR 实验室负责人 Jim Fan 讲述人形机器人基础模型与虚拟世界智能体的研究，以及机器人训练的三路数据策略。"
+},
+"12ea47cc-6eda-11ef-a4e1-b7d333840a0f": {
+"zh": "Magic 创始人 Eric Steinberger 谈追求 AGI 的反直觉路径",
+"desc": "Magic.dev 创始人兼 CEO Eric Steinberger 讲述从写论文的研究者到创业者的经历，以及公司追求通用人工智能的不同寻常路线。"
+},
+"8f80bdd2-6a27-11ef-8c33-9b52e99bfa9c": {
+"zh": "Crucible Moments 第二季：ServiceNow CEO Frank Slootman 与创始人 Fred Luddy 讲述企业级 AI 落地之路",
+"desc": "红杉另一档播客 Crucible Moments 第二季首集，ServiceNow 两位关键人物回顾公司从白手起家到千亿美元市值、再到企业级 AI 规模化的历程。"
+},
+"8b161690-63ea-11ef-bd0b-f32d9265f776": {
+"zh": "Sierra 联合创始人 Clay Bavor 谈如何打造让客户满意的客服 AI Agent",
+"desc": "Sierra 联合创始人 Clay Bavor 介绍客服 AI Agent 的工程挑战，以及如何控制幻觉、让面向客户的对话体验真正可靠。"
+},
+"52aa3e86-5e7b-11ef-934e-974555431f99": {
+"zh": "Phaidra 创始人 Jim Gao 谈用强化学习开启第四次工业革命",
+"desc": "Phaidra 创始人 Jim Gao 讲述从谷歌数据中心节能实验出发，用强化学习优化工业控制、把节能技术做成产品的创业过程。"
+},
+"84e3014a-5907-11ef-9a8c-cfe6fb0c150f": {
+"zh": "Fireworks 创始人 Lin Qiao 谈快速推理与小模型如何为企业创造价值",
+"desc": "Fireworks 创始人兼 CEO Lin Qiao 谈生成式 AI 从训练转向推理后，低延迟推理与小模型如何帮助企业突破成本与性能瓶颈。"
+},
+"6f7ac4e6-5371-11ef-ae98-df1c65a83821": {
+"zh": "GitHub CEO Thomas Dohmke 谈 Copilot 的诞生与软件开发的未来",
+"desc": "GitHub CEO Thomas Dohmke 回顾 Copilot 如何基于 GPT 模型成为爆款产品，并讨论 AI 编程对开发者与软件行业的长期影响。"
+},
+"32e969ca-4df3-11ef-b9c8-97293cd3833d": {
+"zh": "Meta 的 Joe Spisak 谈 Llama 3.1 405B 与前沿模型的开源普及",
+"desc": "Meta 生成式 AI 产品管理负责人 Joe Spisak 在 Llama 3.1 405B 发布两天后，谈新模型的能力、规模扩展与开源在 AI 生态中的角色。"
+},
+"295b4624-4864-11ef-879c-9fff35fc0dc9": {
+"zh": "Klarna CEO Sebastian Siemiatkowski 谈用 AI 承担 700 名客服的工作",
+"desc": "Klarna CEO Sebastian Siemiatkowski 讲述基于 OpenAI 的客服助手如何接手三分之二咨询、替代 700 名外包客服并提升满意度。"
+},
+"07e17634-37df-11ef-a5e9-bb3393be302a": {
+"zh": "Reflection AI 的 Misha Laskin 谈 LLM 的 AlphaGo 时刻",
+"desc": "Reflection AI 联合创始人 Misha Laskin 讨论 AI Agent 从演示走向可靠执行的差距，以及 LLM 何时迎来类似 AlphaGo 的突破。"
+},
+"ef855cbe-37dd-11ef-bc7f-8f47192a0688": {
+"zh": "微软 CTO Kevin Scott 谈 Scaling Law 还能延伸多远",
+"desc": "微软 CTO Kevin Scott 讨论模型规模与算力扩张是否仍是 AI 进步的主引擎，以及边际收益何时可能放缓。"
+},
+"a14664b2-37dd-11ef-999f-0f0d12bf1d0a": {
+"zh": "Zapier 的 Mike Knoop 推出 ARC Prize，为 AGI 寻找新思路",
+"desc": "Zapier 联合创始人 Mike Knoop 谈发起 ARC Prize 的动机，以及为何语言与算力之外还需要新的评测和思路来通往 AGI。"
+},
+"af04fbc0-324e-11ef-a799-73b3d7be953b": {
+"zh": "Factory 联合创始人谈 AI 编程智能体：为软件工程叠加千倍杠杆",
+"desc": "Factory 联合创始人 Matan Grinberg 与 Eno Reyes 讲述为何押注 AI 智能体做软件开发，以及如何让工程效率成倍放大。"
+},
+"508cbf82-2d18-11ef-b32d-4711f6368100": {
+"zh": "LangChain 创始人 Harrison Chase：如何为 AI Agent 搭建编排层",
+"desc": "LangChain 创始人 Harrison Chase 回顾 Agent 热潮的起落，讲编排层如何支撑 Klarna 客服、Devin 等产品的落地。"
+},
+"a62839a4-236c-11ef-b0da-53dfccbfba11": {
+"zh": "红杉资本播客 Training Data 开播：与 AI 建造者探讨世纪主题",
+"desc": "红杉资本合伙人 Sonya Huang 与 Pat Grady 主持，邀请一线 AI 建造者与研究者，探讨技术演进对商业与社会的影响。"
+},
+"3edaf0a4-2f71-11f0-a10e-e7c869b7bacd": {
+"zh": "Sam Altman 谈 OpenAI 演进：把 ChatGPT 做成记住一生上下文的核心 AI 订阅",
+"desc": "在红杉 AI Ascent 2025 现场，Sam Altman 回顾 OpenAI 从 14 人研究实验室到主导 AI 平台的演变，并设想 ChatGPT 成为记住个人全部上下文、跨服务工作的核心订阅。"
+}
+}
