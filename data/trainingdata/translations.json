@@ -446,5 +446,9 @@
 "3edaf0a4-2f71-11f0-a10e-e7c869b7bacd": {
 "zh": "Sam Altman 谈 OpenAI 演进：把 ChatGPT 做成记住一生上下文的核心 AI 订阅",
 "desc": "在红杉 AI Ascent 2025 现场，Sam Altman 回顾 OpenAI 从 14 人研究实验室到主导 AI 平台的演变，并设想 ChatGPT 成为记住个人全部上下文、跨服务工作的核心订阅。"
+},
+"6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192": {
+"zh": "Mecka 高乔：用传感帽与触觉手套采集人类动作，为机器人量产训练数据",
+"desc": "Mecka AI 创始人兼 CEO 高乔（Josh Gao）讲述如何用定制传感帽、触觉手套和 100Gbps 上传管线，把人类动作制成机器人训练数据。"
 }
 }

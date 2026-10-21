@@ -4,19 +4,19 @@
 
 ![Training Data 中文精读首页](docs/screenshots/home.png)
 
-> 把 Training Data 全部 111 期节目做成一个可以认真读的中文站：每期一个页面，中文标题与简介、节目音频与视频、英文文稿，以及 111 篇 AI 改写的中文长文精读。
+> 把 Training Data 全部 112 期节目做成一个可以认真读的中文站：每期一个页面，中文标题与简介、节目音频与视频、英文文稿，以及 112 篇 AI 改写的中文长文精读。
 >
-> A Chinese reading companion for **Training Data | Sequoia Capital** — every episode gets its own page with a Chinese title and summary, audio, video, transcript, and (for 111 episodes so far) a long-form Chinese deep read.
+> A Chinese reading companion for **Training Data | Sequoia Capital** — every episode gets its own page with a Chinese title and summary, audio, video, transcript, and (for 112 episodes so far) a long-form Chinese deep read.
 
 [**在线访问 trainingdata.qiaomu.ai**](https://trainingdata.qiaomu.ai/) · [RSS 全文订阅](https://trainingdata.qiaomu.ai/feed.xml) · [单集目录](https://trainingdata.qiaomu.ai/archive/) · [llms.txt](https://trainingdata.qiaomu.ai/llms.txt) · [MIT License](LICENSE)
 
-**已验证：** `python3 scripts/sitegen/build.py` 本地完整构建 111 个单集页 · 线上 https://trainingdata.qiaomu.ai/ 已部署
+**已验证：** `python3 scripts/sitegen/build.py` 本地完整构建 112 个单集页 · 线上 https://trainingdata.qiaomu.ai/ 已部署
 
 ## 这是什么
 
 Training Data 是红杉资本（Sequoia Capital）的官方播客。投资人 Sonya Huang、Pat Grady、Konstantine Buhler 等与 AI 公司创始人和研究者对谈，覆盖从模型公司到应用层的商业落地、产品策略与市场判断，是理解 AI 产业化的第一手视角。
 
-这个仓库是它的非官方中文站点 **[trainingdata.qiaomu.ai](https://trainingdata.qiaomu.ai/)** 的全部源码与中文内容：一个零依赖的静态站生成器，加上节目元数据、112 期中文标题翻译和 111 篇中文精读。
+这个仓库是它的非官方中文站点 **[trainingdata.qiaomu.ai](https://trainingdata.qiaomu.ai/)** 的全部源码与中文内容：一个零依赖的静态站生成器，加上节目元数据、113 期中文标题翻译和 112 篇中文精读。
 
 ## 核心能力
 
@@ -103,8 +103,8 @@ scripts/sitegen/static/        共用前端脚本、结构样式与各站主题�
 
 **Training Data 中文精读** is an unofficial Chinese reading companion for *Training Data | Sequoia Capital* (hosted by Sonya Huang · Pat Grady · Konstantine Buhler 等), live at **https://trainingdata.qiaomu.ai/**.
 
-- **111 episodes**, each with a Chinese title and summary, audio player with resume, YouTube embed, and English transcript where available.
-- **111 long-form Chinese deep reads** with a magazine-grade reading experience: section numbering, pull quotes, drop caps, a reading-settings panel (3 themes, 5 open-source Chinese fonts, size / leading / measure / indent), a centered table of contents and reading progress.
+- **112 episodes**, each with a Chinese title and summary, audio player with resume, YouTube embed, and English transcript where available.
+- **112 long-form Chinese deep reads** with a magazine-grade reading experience: section numbering, pull quotes, drop caps, a reading-settings panel (3 themes, 5 open-source Chinese fonts, size / leading / measure / indent), a centered table of contents and reading progress.
 - **Search** with normalization, multi-term matching, ranking and highlighting; **continue listening / reading**; **full-text RSS**.
 - **SEO / GEO**: server-rendered first screen, `Article` + `PodcastEpisode` JSON-LD, a Markdown version of every deep read, `llms.txt`, sitemap, AI crawlers welcome.
 - **Share cards** generated per episode (face-centered portrait crops, punctuation-aware balanced title wrapping), full **PWA** with offline reading, custom 404 and offline pages.
