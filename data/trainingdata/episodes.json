@@ -9,6 +9,18 @@
  },
  "episodes": [
   {
+   "id": "538a8146-d177-11f1-8079-5369dbb6e923",
+   "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
+   "date": "2026-10-28",
+   "duration": 2665,
+   "description": "Two years after its founding, Stark has roughly 700 employees and strike drones in the field in Ukraine. CEO Uwe Horstmann and CTO Johannes Schaback argue that the real lesson of that war is not any single weapon: the innovation ecosystem behind it is the wonder weapon. They explain why Stark designs every system for mass manufacturing from day one, runs 10 to 15 programs like a venture portfolio, and views the staff sergeant who operates a system as just as important as the general who buys it. Johannes recounts the publicly reported failed trial that became a forging moment, as engineers worked around the clock at a freezing test range until they landed three consecutive hits. They discuss NATO’s principles of responsible AI use and the hard-coded constraints in Stark’s autonomy stack. And Uwe lays out his next big idea: defense contracts structured like cloud contracts with surge capacity built in, so production itself becomes deterrence.\n\nHosted by Pat Grady and Luciana Lixandru, Sequoia Capital\n\nChapters\n\n0:00 – Introduction\n\n1:03 – Billions in contracts in 18 months: Stark's four-part playbook\n\n2:28 – The staff sergeant matters as much as the general, and wood beats plastic\n\n7:42 – Why Europe is ready for a neo prime, and why procurement reform will last\n\n11:45 – Startup DNA, venture-style programs, and \"as complex as a washing machine\"\n\n16:27 – Born out of fire: the failed trial and the round-the-clock comeback\n\n21:13 – Where Stark finds talent, and why defense is no longer off-limits\n\n23:48 – Anatomy of a strike, from the wooden crate to the kill zone\n\n27:22 – Vertical integration, multiple domains, and shifting left on manufacturing\n\n32:53 – After the Hugging Face hack: guardrails on autonomous weapons\n\n35:56 – Matching the primes on R&D and scaling to 700 people in two years\n\n39:24 – Deterrence by contract, and Europe's next chapter with the US",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI2998612942.mp3",
+   "link": "",
+   "image": "https://megaphone.imgix.net/podcasts/538a8146-d177-11f1-8079-5369dbb6e923/image/26da6bf06972bb3b097faa4fc91db617.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "epnum": null,
+   "ytId": null
+  },
+  {
    "id": "6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192",
    "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
    "date": "2026-10-20",
