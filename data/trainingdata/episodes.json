@@ -9,6 +9,18 @@
  },
  "episodes": [
   {
+   "id": "eed8f8c6-d88e-11f1-8b73-637e085f73d5",
+   "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+   "date": "2026-11-05",
+   "duration": 1920,
+   "description": "Today’s agents are stuck in what Ronak Malde calls “pseudo continual learning”: intelligent, but updated in offline batches, like a paper road map you can’t reroute mid-trip. Ronak, co-founder of Trajectory, explains why closing that loop is the next learning paradigm, and why training your own model, which used to take a dedicated research team, months of work and hundreds of millions in compute, is now something a company can do in a few clicks with their own data. He details two research bets they are making available to everyone with their product: 1) a variant of GRPO that removes the need for a simulated environment by learning from single real-world rollouts instead of 16 replays of the same task, and 1) a meta-grader that increased data efficiency by 100x. Ronak explains how Harvey trained a model six times cheaper than frontier, improving an open-source baseline by over 4x on Harvey's own legal benchmark. He defines the difference between continual learning and recursive self-improvement and predicts product builders will become gardeners, setting trellises for products that grow themselves.\n\nHosted by Pat Grady and Lauren Reeder, Sequoia Capital\n\n0:00 – Introduction\n\n0:45 – Pseudo continual learning: paper maps vs Google Maps\n\n2:48 – Do we need new architectures? Rich Sutton, David Silver, and the missing layer\n\n4:33 – From a $100M consulting model to a product: lessons from SWE-1 at Windsurf\n\n7:36 – Harvey: 6x cheaper than frontier, 4% to 18% on its own benchmark\n\n8:55 – Why \"Trajectory\": the unit of work is a task, not a token\n\n10:13 – The primitives of continual learning: traces, replayable environments, reward\n\n12:56 – Group Size 1 and the meta-grader: training without an environment or a labeled reward\n\n16:16 – The platform: train, eval and deploy in one click, and who it's for\n\n18:58 – Rogo and intelligence density\n\n20:14 – What's next: curiosity, and why continual learning beats RSI on alignment\n\n24:19 – Research and product under one roof, and the product builder as gardener\n\n27:26 – Why work at Trajectory, and the optimistic case: from 1% to 99%",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8366427179.mp3",
+   "link": "",
+   "image": "https://megaphone.imgix.net/podcasts/eed8f8c6-d88e-11f1-8b73-637e085f73d5/image/6f888a49e0e3b276cd3b6dc5e5a3f362.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "epnum": null,
+   "ytId": null
+  },
+  {
    "id": "538a8146-d177-11f1-8079-5369dbb6e923",
    "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
    "date": "2026-10-28",

@@ -454,5 +454,9 @@
 "538a8146-d177-11f1-8079-5369dbb6e923": {
 "zh": "欧洲防务自主始于工厂：Stark CEO与CTO谈量产无人机与创新生态",
 "desc": "Stark CEO Uwe Horstmann与CTO Johannes Schaback解释为何从第一天就按大规模制造设计攻击无人机，并以风投组合方式推进十余个项目。"
+},
+"eed8f8c6-d88e-11f1-8b73-637e085f73d5": {
+"zh": "Trajectory 的 Ronak：用闭环持续学习让人人训练自己的模型",
+"desc": "Trajectory 联合创始人 Ronak 谈 Agent 的伪持续学习困境、闭环训练范式，以及降低自训练模型门槛。"
 }
 }
